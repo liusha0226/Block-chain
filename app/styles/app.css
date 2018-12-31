@@ -1,0 +1,118 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12pt;
+}
+
+
+h2{
+  text-align: center;
+}
+
+p{
+  font-size: 12pt;
+}
+
+
+.msg{
+  height: 210px;
+  width: 400px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    border: 1px rgb(200,200,200) solid;
+    box-shadow: 10px 10px 10px 0px gray;
+}
+
+.disease_name{
+  position: absolute;
+  top: 50px;
+  left: 120px;
+}
+
+.peopleNum{
+  position: absolute;
+  top: 80px;
+  left: 120px;
+}
+
+.patientsNum{
+  position: absolute;
+  top: 110px;
+  left: 120px;
+}
+
+.incidence{
+  position: absolute;
+  top: 140px;
+  left: 120px;
+}
+
+
+.get_incidence{
+  height: 330px;
+  width: 360px;
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    font-size: 15pt;  
+    border: 1px rgb(200,200,200) solid;
+    box-shadow: 10px 10px 10px 0px gray;
+}
+
+#radios{
+  position: absolute;
+  top: 80px;
+  left: 60px;
+}
+
+#disease{
+  position: absolute;
+  top: 130px;
+  left: 20px;
+}
+
+#disease_name{
+  height: 20px;
+  width: 180px;
+  position: absolute;
+  top: 130px;
+  left: 110px;
+}
+
+#tip1{
+  position: absolute;
+  left: 60px;
+  top: 150px;
+  color: red;
+}
+
+#publisher{
+  position: absolute;
+  top: 200px;
+  left: 40px;
+}
+
+#publisher_name{
+  height: 20px;
+  width: 180px;
+  position: absolute;
+  top: 200px;
+  left: 110px;
+}
+
+#tip2{
+  position: absolute;
+  left: 60px;
+  top: 230px;
+  color: red;
+}
+
+#submit{
+    height: 30px;
+    width: 50px;
+    position: absolute;
+    top: 260px;
+    left: 270px;
+}
